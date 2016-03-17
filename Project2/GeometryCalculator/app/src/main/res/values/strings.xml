@@ -1,0 +1,21 @@
+<resources>
+    <string name="rect_calculations_label">Rectangle Calculations</string>
+    <string name="rect_solid_calculations_label">Rectangle Solid Calculations</string>
+    <string name="triangle_calculations_label">Triangle Calculations</string>
+
+    <string name="app_name">Geometry Calculator</string>
+    <string name="height">height</string>
+    <string name="width">width</string>
+    <string name="length">length</string>
+    <string name="area">Area</string>
+    <string name="perimeter">Perimeter</string>
+    <string name="volume">Volume</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="surface_area">Surface Area</string>
+
+    <string name="triangle_a">a</string>
+    <string name="triangle_b">b</string>
+    <string name="triangle_c">c</string>
+
+    <string name="clear">Clear</string>
+</resources>
